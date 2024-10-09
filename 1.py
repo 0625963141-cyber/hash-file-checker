@@ -1,2 +1,2 @@
 op = 19
-print(hhhhhaaaaaaa)
+print('hhhhhaaaaaaa')
